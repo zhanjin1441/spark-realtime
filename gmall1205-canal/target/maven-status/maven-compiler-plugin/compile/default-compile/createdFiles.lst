@@ -1,0 +1,3 @@
+com\atguigu\gmall1205\canal\app\CanalApp.class
+com\atguigu\gmall1205\canal\handler\CanalHandler.class
+com\atguigu\gmall1205\canal\util\MyKafkaSender.class
